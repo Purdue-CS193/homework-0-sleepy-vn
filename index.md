@@ -22,6 +22,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+**hello there**
+_nice to meet you_
+`beep boop`
 
 [Link](url) and ![Image](src)
 ```
